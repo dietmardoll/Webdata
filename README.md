@@ -1,3 +1,3 @@
 # Webdata
 Testprojekt Werbserver
-Spielereien zur Vorbereitubng Webserverprojekt MRU
+Spielereien zur Vorbereitung Webserverprojekt MRU
